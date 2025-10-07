@@ -9,7 +9,7 @@ data:extend({
      type = "technology",
      name = "foundry-casting-engine-core",
      icon_size = 256, icon_mipmaps = 4,
-     icon = "__cast-engines__/graphics/icons/casting-engine-core.png",
+     icon = "__space-age__/graphics/technology/foundry.png",
      effects = {
        {type = "unlock-recipe", recipe = "foundry-casting-engine-core"},
        {type = "unlock-recipe", recipe = "assembling-engine-core"}
