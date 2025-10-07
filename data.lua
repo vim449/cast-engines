@@ -40,7 +40,7 @@ data:extend({
      enabled = false,
      -- standard engines take 10 seconds at 1x crafting speed, 8s in green assemblers
      -- 6s in a foundry would be 24
-     energy_required = 24,
+     energy_required = 12,
      category = "metallurgy",
      group = "intermediate-products",
      subgroup = "vulcanus-processes",
