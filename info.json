@@ -1,0 +1,9 @@
+{
+    "name": "cast-engines",
+    "version": "0.1.0",
+    "title": "Cast Engines",
+    "author": "vim449",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age"],
+    "description": "This mod adds engine cores that can be made in a foundry and later assembled."
+}
